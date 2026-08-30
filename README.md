@@ -2,7 +2,7 @@
 
 This repository is an unofficial technical research archive for the Game Boy Advance version of **The Lord of the Rings: The Return of the King**.
 
-The collector edition integrates the project's twelve English research reports into one evidence-graded structure. It documents Multiplayer progression, the corpse-hit death-state re-entry exploit, drop eligibility, RedMask, Extra Treasure breakpoints, character loot profiles, rare-item probabilities, Critical-rate evidence, and several high-end farming targets.
+This research archive integrates the project's twelve English research reports into one evidence-graded structure. It documents Multiplayer progression, the corpse-hit death-state re-entry exploit, drop eligibility, RedMask, Extra Treasure breakpoints, character loot profiles, rare-item probabilities, Critical-rate evidence, and several high-end farming targets.
 
 **No commercial ROM image is included or required in this public archive.**
 
@@ -17,7 +17,7 @@ For the strongest current findings, read these reports first:
 
 ## Full Report Order
 
-1. [Multiplayer Progression: 12 Stations, Host Carry, and Persistent Client Unlocks](reports/01_multiplayer_progression.md)
+1. [Multiplayer Progression: 12 Stations, Host Carry, and Persistent Client Progression](reports/01_multiplayer_progression.md)
 2. [Research Result G: Corpse-Hit Death-State Re-entry / Repeated Loot Exploit](reports/02_research_result_g_corpse_hit_loot_exploit.md)
 3. [Post-Mortem Repeated Loot and Equipment Farming](reports/03_post_mortem_repeated_loot.md)
 4. [RedMask and the 14 Hidden Red Backpack Uniques](reports/04_redmask_hidden_uniques.md)
@@ -62,7 +62,7 @@ The project separates observed gameplay, SAV/runtime evidence, ROM/machine-code 
 
 When a result is not closed, it is labeled as unresolved rather than promoted to a fixed fact.
 
-## Suggested Citation
+## Citation Guidance
 
 When referencing a probability, include both the exact denominator and the report revision/date.
 
