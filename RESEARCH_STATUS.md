@@ -1,7 +1,3 @@
-# RESEARCH_STATUS.md — Copy/Paste Source
-
-Use this as the project-wide truth set and evidence policy.
-
 ## Research Status, Evidence Policy, and Scope
 
 ### Current project truth set
@@ -26,7 +22,7 @@ Use this as the project-wide truth set and evidence policy.
 
 - Runtime RedMask: `char_base + 0x18A` (16-bit). Persistent counterpart: character record `+0x56`.
 - Complete 14-target qualification state: `0xDBFF`.
-- `0xDBFF` does not increase the type-E rate, the 1-in-10 audit, or candidate bucket probability.
+- `0xDBFF` does not increase the type-E rate, the 1-in-10 random gate, or the underlying candidate-selection probability.
 
 #### Drop probability
 
@@ -54,8 +50,10 @@ Use this as the project-wide truth set and evidence policy.
 - Complete enemy display-name -> source/resource -> equipment-entry-rate matrix.
 - Exact machine-precise per-item probabilities for all 37 blue-name candidates.
 - Full low-level mapping of Multiplayer progression storage semantics.
+- Full 12-station real-link / dual-instance Host-Client progression matrix, including whether any progression is copied wholesale or only acquired through actual station play and normal saving.
 - Per-enemy dynamic verification of corpse-hit compatibility and equipment-farmability.
-- Independent runtime reproduction of Research Result G on BLRJ/localized builds.
+- Independent runtime reproduction of Research Result G, Multiplayer progression, and the major probability chains on BLRJ / localized builds.
+- Re-close the ordinary-combat Critical RNG call site on the current baseline; the drop-system 15-bit RNG must not be treated as independently proven combat-Critical RNG behavior.
 
 ## 2026-08-27 empirical scope corrections
 
