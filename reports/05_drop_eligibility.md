@@ -57,7 +57,7 @@ Address quick reference: main function block 0x0803A844-0x0803AB4A; +0x188 check
 
 - The flowchart term "fallback chain" does not mean the result must become an ordinary item. The chain can still produce 0x54 or 0x51, while 0x57/0x58 can enter the same shared exit region with the direct-return flag already set.
 
-![Rare-item drop eligibility flowchart](images/01_Drop_Eligibility_Flowchart.png)
+![Rare-item drop eligibility flowchart](../images/01_Drop_Eligibility_Flowchart.png)
 
 *Figure: Rare-item drop eligibility flowchart.*
 
