@@ -2,7 +2,7 @@
 
 This repository is an unofficial technical research archive for the Game Boy Advance version of **The Lord of the Rings: The Return of the King**.
 
-This research archive integrates the project's twelve English research reports into one evidence-graded structure. It documents Multiplayer progression, the corpse-hit death-state re-entry exploit, drop eligibility, RedMask, Extra Treasure breakpoints, character loot profiles, rare-item probabilities, Critical-rate evidence, and several high-end farming targets.
+This research archive integrates the project's fifteen English research reports into one evidence-graded structure. It documents Multiplayer progression, the corpse-hit death-state re-entry exploit, drop eligibility, RedMask, Extra Treasure breakpoints, character loot profiles, rare-item probabilities, Critical-rate evidence, and several high-end farming targets.
 
 **No commercial ROM image is included or required in this public archive.**
 
@@ -29,6 +29,9 @@ For the strongest current findings, read these reports first:
 10. [Spoon Farming: Nine Code-Evidence Routes](reports/10_spoon_nine_routes.md)
 11. [Blood Pirate / of the Fates: 15 Conclusions](reports/11_blood_pirate_fates.md)
 12. [Dark Sapphire / of the Fates: Optimal Farming Analysis](reports/12_dark_sapphire_fates.md)
+13. [Code-Level Audit of Nine Special Combat Effects](reports/13_special_combat_effects.md)
+14. [Runtime Effect Audit of 14 Rare Backpack Uniques](reports/14_backpack_unique_runtime_effects.md)
+15. [Grueling Full-Eye Ringwraith: Accuracy, Defense, Dodge, Shield Block, and Practical Build](reports/15_grueling_full_eye_ringwraith_build.md)
 
 ## Strongest Current Findings
 
